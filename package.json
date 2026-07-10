@@ -1,0 +1,5 @@
+{
+  "name": "local-overleaf-ide",
+  "private": true,
+  "workspaces": ["server", "web"]
+}
